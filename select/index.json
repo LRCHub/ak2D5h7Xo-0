@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "水面下",
+  "base_artist": "大沼パセリ feat. 可不",
+  "createdAt": "2026-03-28T14:24:05.741301Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "水面下",
+      "artist": "Parsley Onuma",
+      "has_synced": false,
+      "path": "select/01_水面下_Parsley_Onuma.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "水面下",
+      "artist": "Parsley Onuma feat. KAFU",
+      "has_synced": false,
+      "path": "select/02_水面下_Parsley_Onuma_feat._KAFU.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "水面下",
+      "artist": "大沼パセリ feat. 可不",
+      "has_synced": false,
+      "path": "select/pl_01_水面下_大沼パセリ_feat._可不.txt"
+    }
+  ]
+}
